@@ -1,3 +1,3 @@
 <?php
-echo "This is a test of my new git repository.";
+echo "This is a test of my new git repository. Re-adding the sentence because I don't know why it was removed.";
  ?>
